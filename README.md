@@ -1,3 +1,3 @@
 # hello-world
 My first repository 
-I am setting up this githup acct. for a codecademy class
+I am setting up this github acct. for a codecademy class
